@@ -8,7 +8,7 @@ Issues with AlexMalix Collection order for Majespecter Raccoon - Bunbuku.
 The cards received were not Near Mint. All three had significant issues.<br><br>
 Below are images of the card received. As you can see, there is damage in the upper left, lower right (foil peeling off), and for some reason the bottom of the card's back was filed down to the point where you can see the paper the card was printed on. <br><br>
 
-![Top](BunbukuTop.jpg) <br>
+![BunbukuTop](BunbukuTop.jpg) <br>
 ![BunbunkuLowerRight](BunbunkuLowerRight.jpg) <br>
 ![BunbukuShredded](BunbukuShredded.jpg) <br>
 
