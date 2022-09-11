@@ -5,9 +5,13 @@ Issues with AlexMalix Collection order for Majespecter Raccoon - Bunbuku.
 ## Order was made for a Near Mint Majespecter Raccoon - Bunbuku
 ![PurchaseProof](Purchase&#32;Proof.png)
 <br><br>
-The card received was not Near Mint. <br><br>
-Below are images of the card received. As you can see, there is damage in the lower right, lower left, and upper right side of the card's edges. <br><br>
-![Lower Right](MaxxCRightLowerDamage.jpg) <br>
-![Lower Left](MaxxCLeftLowerDamage.jpg) <br>
-![Right Upper](MaxxCRightUpperDamage.jpg) <br>
-![Maxx C](MaxxC.jpg) <br>
+The cards received were not Near Mint. All three had significant issues.<br><br>
+Below are images of the card received. As you can see, there is damage in the upper left, lower right (foil peeling off), and for some reason the bottom of the card's back was filed down to the point where you can see the paper the card was printed on. <br><br>
+
+![Top](BunbukuTop.jpg) <br>
+![BunbunkuLowerRight](BunbunkuLowerRight.jpg) <br>
+![BunbukuShredded](BunbukuShredded.jpg) <br>
+
+<br><br>
+### The seller acknowledge the damage on the top for additional images so I provided them in the B2 and B3 folders 
+![SellingInteraction](SellingInteraction.jpg) <br>
