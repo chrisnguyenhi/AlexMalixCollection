@@ -13,5 +13,5 @@ Below are images of the card received. As you can see, there is damage in the up
 ![BunbukuShredded](BunbukuShredded.jpg) <br>
 
 <br><br>
-### The seller acknowledge the damage on the top for additional images so I provided them in the B2 and B3 folders 
+### The seller acknowledged the damage on the top for additional images so I provided them in the B2 and B3 folders 
 ![SellingInteraction](SellingInteraction.png) <br>
