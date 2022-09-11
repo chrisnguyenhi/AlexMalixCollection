@@ -14,4 +14,4 @@ Below are images of the card received. As you can see, there is damage in the up
 
 <br><br>
 ### The seller acknowledge the damage on the top for additional images so I provided them in the B2 and B3 folders 
-![SellingInteraction](SellingInteraction.jpg) <br>
+![SellingInteraction](SellingInteraction.png) <br>
